@@ -1,0 +1,47 @@
+body {
+    background-color: coral;
+}
+
+#green {
+    background-color: orangered;
+    width: 100%;
+    height: 150px;
+   /*-- border: 1px solid green;*/
+    float: inherit;
+    margin: 5px;
+        
+}
+
+#red {
+    width: 85%;
+    height: 720px;
+   /* border: 1px solid red;*/
+    margin: 5px;
+    padding: 2px;
+    float: right; 
+    /*background-image: "http://sakura-hotel-ikebukuro.com/blog/freestyle_climbing_hi.jpg";*/ 
+        
+}
+
+#blue {
+    width: 13%;
+    height: 720px;
+   /*border: 1px solid blue;*/
+    margin: 5px;
+    float: none;
+    /*kodel man nenusistato background-image nei is kompo, nei is neto??*/
+    background-image: "C:\Users\Tomas-Zakas\Desktop\climbing01.jpg";
+    
+}
+
+#klausimas {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 16px;
+    color: darkblue;
+    text-align: center;
+    background-color: saddlebrown;
+    
+}
+
+
+
